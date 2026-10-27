@@ -43,14 +43,13 @@ Diploma in Information Communication Technology in Apllication Develeopment
 3rd Year Student
 
 ## SKILLS
-- Python 
+- Python
+- Java
 - UI/UX Design 
 - JavaScript 
 - HTML 
 - CSS 
 - MySQL
-- IoT
-- C++
 - WBS, ERD, GANTT CHART
 
 ## PROJECTS
