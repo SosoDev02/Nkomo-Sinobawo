@@ -62,9 +62,8 @@ Diploma in Information Communication Technology in Apllication Develeopment
 
 
 ## VIDEO MOCK INTERVIEW
-##VIDEO MOCK INTERVIEW
 
-[![Mock Interview](thumbnail.jpg)](https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0)
+[!(thumbnail.jpg)](https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0)
 
 ### Interview Reflection
 
@@ -123,7 +122,15 @@ This video demonstrates my mock interview presentation.
 
 
 # eWIL PROJECT (ITEM HIVE)
-Item hive is an e-commerce web application consisting of a group of six programmers. The application consists of the products we sell which are the branded clothing items for the ICT students, and it also has an easy navigation of Cart and Checkout, payment integration, an admin dashboard and order tracking. And the nicest part about it is that our customers have an option to choose whether they'll collect it at campus or delivered to their residence.              
+Item hive is an e-commerce web application consisting of a group of six programmers. The application consists of the products we sell which are the branded clothing items for the ICT students, and it also has an easy navigation of Cart and Checkout, payment integration, an admin dashboard and order tracking. And the nicest part about it is that our customers have an option to choose whether they'll collect it at PEP Paxi point or delivered to their residence.
+
+<img width="700" height="432" alt="image" src="https://github.com/user-attachments/assets/49831739-325c-41e3-ad7a-6adb12c2c686" />
+<img width="800" height="411" alt="Screenshot 2026-10-29 081646" src="https://github.com/user-attachments/assets/7170f0f2-93db-4193-a583-e6eed4fc436f"/>
+<img width="836" height="426" alt="Screenshot 2026-10-29 082257" src="https://github.com/user-attachments/assets/7a337afb-3826-4aa5-804d-276e34e99942" />
+<img width="838" height="430" alt="Screenshot 2026-10-29 082423" src="https://github.com/user-attachments/assets/4ee983d7-1f50-425e-b459-a8a52daa4426" />
+<img width="843" height="432" alt="Screenshot 2026-10-29 083008" src="https://github.com/user-attachments/assets/17464581-d591-469f-80db-5cc1f716c862" />
+
+
 
 ## Agile Team Charter
 
