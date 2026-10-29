@@ -142,17 +142,17 @@ The charter consists of the following:
 ![Team Purpose, Objective, and Vision statement](/images/<img width="800" height="592" alt="Screenshot 2026-10-29 005922" src="https://github.com/user-attachments/assets/32600893-1763-4a28-bc86-eecbfe05bc53" />
 <img width="566" height="590" alt="Screenshot 2026-10-29 010001" src="https://github.com/user-attachments/assets/4dba1ac0-29c5-46be-9482-7712f33df9c1" />)
 
-![Roles & Responsibilities](/images/<img width="569" height="340" alt="Screenshot 2026-10-29 010022" src="https://github.com/user-attachments/assets/d1871827-05b9-446d-86d3-a56993982d09" />
+<img width="569" height="340" alt="Screenshot 2026-10-29 010022" src="https://github.com/user-attachments/assets/d1871827-05b9-446d-86d3-a56993982d09" />
 <img width="545" height="569" alt="Screenshot 2026-10-29 010042" src="https://github.com/user-attachments/assets/c3626192-bb09-4798-9ced-86174d419527" />
 <img width="575" height="541" alt="Screenshot 2026-10-29 010058" src="https://github.com/user-attachments/assets/edaefdc0-e13a-479f-a7b0-b9f7bbfe338a" />)
 
-![Values & Principles](/images/<img width="565" height="559" alt="Screenshot 2026-10-29 010140" src="https://github.com/user-attachments/assets/fdd21a14-4a73-472c-bb57-00b562b99803" />
+<img width="565" height="559" alt="Screenshot 2026-10-29 010140" src="https://github.com/user-attachments/assets/fdd21a14-4a73-472c-bb57-00b562b99803" />
 <img width="565" height="559" alt="Screenshot 2026-10-29 010140" src="https://github.com/user-attachments/assets/69b57007-cfe9-4c68-b0ba-294c806ba454" />)
 
-![Communication methods](/images/<img width="599" height="527" alt="Screenshot 2026-10-29 010222" src="https://github.com/user-attachments/assets/69781d62-fdbf-4a5d-815f-1f8d65839a02" />
+<img width="599" height="527" alt="Screenshot 2026-10-29 010222" src="https://github.com/user-attachments/assets/69781d62-fdbf-4a5d-815f-1f8d65839a02" />
 <img width="588" height="320" alt="Screenshot 2026-10-29 010237" src="https://github.com/user-attachments/assets/2bea8f23-351f-45ae-91ec-ab6b67bc2f22" />)
 
-![Goals & Milestones](/images/<img width="598" height="596" alt="Screenshot 2026-10-29 010304" src="https://github.com/user-attachments/assets/2147a6ec-80ef-4321-b4fe-3c399a8018e4" />
+<img width="598" height="596" alt="Screenshot 2026-10-29 010304" src="https://github.com/user-attachments/assets/2147a6ec-80ef-4321-b4fe-3c399a8018e4" />
 <img width="561" height="589" alt="Screenshot 2026-10-29 011054" src="https://github.com/user-attachments/assets/0a00ff48-5b7d-47e7-81f2-a988f8af7a03" />)
 
 ## Reflection
@@ -164,7 +164,7 @@ The charter consists of the following:
 ## User Stories & Tasks
 ### Evidence
 Every sprint in Trello board has a user story in its description and a checklist of subtasks, each assigned to one member.
-![User stories & subtasks](/images/<img width="594" height="473" alt="Screenshot 2026-10-29 023944" src="https://github.com/user-attachments/assets/d2e0f665-22b1-4a78-ba31-1a45f622317e" />
+<img width="594" height="473" alt="Screenshot 2026-10-29 023944" src="https://github.com/user-attachments/assets/d2e0f665-22b1-4a78-ba31-1a45f622317e" />
 <img width="600" height="496" alt="Screenshot 2026-10-29 024011" src="https://github.com/user-attachments/assets/35afec7c-510d-44de-af7a-8f8aa5a12135" />
 <img width="611" height="421" alt="Screenshot 2026-10-29 023908" src="https://github.com/user-attachments/assets/594ec03d-d21c-417f-8541-44ee7be98689" />
 <img width="604" height="500" alt="Screenshot 2026-10-29 024044" src="https://github.com/user-attachments/assets/8264fa2b-3ff8-435f-9d72-1c78a72b83d2" />
