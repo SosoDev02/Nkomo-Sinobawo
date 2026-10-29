@@ -60,12 +60,14 @@ Diploma in Information Communication Technology in Apllication Develeopment
 - Masakhumzi community website
 - Empiras learner dashboard
 
+
 ## VIDEO MOCK INTERVIEW
 
 Here is my mock interview video.
 
 <video controls width="600">
-  <source src="https://github.com/user-attachments/assets/afed659c-ebbb-4994-99ee-1bf3de9d66f4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/c201e643-319d-4f8e-80fa-57a2db6f1105" type="video/mp4">
+  Your browser does not support video playback.
 </video>
 
 ### Interview Reflection
