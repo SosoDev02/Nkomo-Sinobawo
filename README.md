@@ -63,8 +63,7 @@ Diploma in Information Communication Technology in Apllication Develeopment
 
 ## VIDEO MOCK INTERVIEW
 
-[! Mock Interview](https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0)
-<video controls width="600">
+<video controls width="300">
   <source src="https://github.com/user-attachments/assets/d7608168-1c9b-48ad-b47a-957b94eb69d0" type="video/mp4">
   Your browser does not support video playback.
 </video>
