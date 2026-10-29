@@ -64,7 +64,7 @@ Diploma in Information Communication Technology in Apllication Develeopment
 ## VIDEO MOCK INTERVIEW
 
 Here is my mock interview video.
-
+[![Mock Interview](videos/https://github.com/user-attachments/assets/c201e643-319d-4f8e-80fa-57a2db6f1105.mp4)
 <video controls width="600">
   <source src="https://github.com/user-attachments/assets/c201e643-319d-4f8e-80fa-57a2db6f1105" type="video/mp4">
   Your browser does not support video playback.
@@ -139,7 +139,7 @@ The charter consists of the following:
 -  Communication methods
 -  Goals & Milestones
 
-![Team Purpose, Objective, and Vision statement](/images/<img width="800" height="592" alt="Screenshot 2026-10-29 005922" src="https://github.com/user-attachments/assets/32600893-1763-4a28-bc86-eecbfe05bc53" />
+<img width="800" height="592" alt="Screenshot 2026-10-29 005922" src="https://github.com/user-attachments/assets/32600893-1763-4a28-bc86-eecbfe05bc53" />
 <img width="566" height="590" alt="Screenshot 2026-10-29 010001" src="https://github.com/user-attachments/assets/4dba1ac0-29c5-46be-9482-7712f33df9c1" />)
 
 <img width="569" height="340" alt="Screenshot 2026-10-29 010022" src="https://github.com/user-attachments/assets/d1871827-05b9-446d-86d3-a56993982d09" />
@@ -179,7 +179,7 @@ Every sprint in Trello board has a user story in its description and a checklist
 ## Product Backlog
 ### Evidence
 After the project restructured, we rewrote the remaining work as day-by-day items, each with a user story: analytics and dashboard UI, reporting, expansion of the catalogue, end-to-end, regression and acceptance testing, documentation, launch preparation, monitoring, go-live, post-launch review and final handover.
-![Trello](/images/<img width="1270" height="539" alt="Screenshot 2026-10-28 015706" src="https://github.com/user-attachments/assets/c887fd56-15fe-424e-a7d7-bb00e247f9fd" />
+<img width="1270" height="539" alt="Screenshot 2026-10-28 015706" src="https://github.com/user-attachments/assets/c887fd56-15fe-424e-a7d7-bb00e247f9fd" />
 <img width="1359" height="569" alt="Screenshot 2026-10-28 015752" src="https://github.com/user-attachments/assets/be38eba4-65f3-43ab-b2db-f0e5a935a86b" />
 )
 
@@ -192,7 +192,7 @@ After the project restructured, we rewrote the remaining work as day-by-day item
 ## Sprint Backlog
 ### Evidence
 Each sprint had 4 days, day 1-3 was for building and day 4 was for reviewing and deploying   
-![Sprints](/images/<img width="604" height="380" alt="Screenshot 2026-10-29 041331" src="https://github.com/user-attachments/assets/baaedfe4-d580-444c-b81b-f513e3943476" />
+<img width="604" height="380" alt="Screenshot 2026-10-29 041331" src="https://github.com/user-attachments/assets/baaedfe4-d580-444c-b81b-f513e3943476" />
 <img width="587" height="430" alt="Screenshot 2026-10-29 041400" src="https://github.com/user-attachments/assets/d4b11181-fdd7-4a86-8105-afb639fd361b" />
 <img width="596" height="442" alt="Screenshot 2026-10-29 041432" src="https://github.com/user-attachments/assets/24f62016-1ee9-41e8-8251-384ca97bb334" />
 <img width="596" height="458" alt="Screenshot 2026-10-29 041510" src="https://github.com/user-attachments/assets/3f6271ee-54fe-4b30-939c-c57a7274054b" />)
@@ -206,7 +206,7 @@ Each sprint had 4 days, day 1-3 was for building and day 4 was for reviewing and
 ## Agile Logbook
 ### Evidence
 The logbook records what the team planned each sprint, what I worked on, and what I learned.
-![Agile logbook](/images/<img width="711" height="522" alt="Screenshot 2026-10-29 044434" src="https://github.com/user-attachments/assets/f6e29581-c221-4c72-8cb6-bab3ec04da33" />
+<img width="711" height="522" alt="Screenshot 2026-10-29 044434" src="https://github.com/user-attachments/assets/f6e29581-c221-4c72-8cb6-bab3ec04da33" />
 <img width="675" height="381" alt="Screenshot 2026-10-29 044454" src="https://github.com/user-attachments/assets/489ad790-3b33-4ea4-b055-44c9181f3f22" />
 <img width="639" height="496" alt="Screenshot 2026-10-29 044525" src="https://github.com/user-attachments/assets/88e68e6d-5056-4b45-8574-eb9eb9bd33fe" />
 <img width="579" height="439" alt="Screenshot 2026-10-29 044757" src="https://github.com/user-attachments/assets/ea8711c3-fa91-40dc-a97a-b91e9352641a" />
